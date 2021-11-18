@@ -1,0 +1,119 @@
+{
+	"events": [
+		{
+			"action": "join",
+			"character": "character-1637271716.json",
+			"event_id": "dialogic_002",
+			"mirror": false,
+			"portrait": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": true
+			}
+		},
+		{
+			"action": "join",
+			"character": "character-1637271684.json",
+			"event_id": "dialogic_002",
+			"mirror": false,
+			"portrait": "",
+			"position": {
+				"0": true,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			}
+		},
+		{
+			"character": "character-1637271716.json",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "gRowL"
+		},
+		{
+			"choice": "What did you say?",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1637271684.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "What did you say?"
+		},
+		{
+			"character": "character-1637271716.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "GrOwL"
+		},
+		{
+			"character": "character-1637271684.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "*It appears this demon does not understand us*"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Negotiation Failed"
+		},
+		{
+			"event_id": "dialogic_022",
+			"transition_duration": 1
+		},
+		{
+			"choice": "GrrowL",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1637271684.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "grrOwllL"
+		},
+		{
+			"character": "character-1637271716.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "GrOwLL!"
+		},
+		{
+			"character": "character-1637271684.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "(It appears this demon understood)"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Negotiation Complete"
+		},
+		{
+			"event_id": "dialogic_022",
+			"transition_duration": 1
+		},
+		{
+			"event_id": "dialogic_013"
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.3",
+		"file": "timeline-1637271858.json",
+		"name": "conversation"
+	}
+}
